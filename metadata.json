@@ -1,0 +1,8 @@
+{
+  "name": "教員専用ソクラテス式指導プランナー",
+  "description": "授業準備専用。アップロードされた問題から自発的な気付きを引き出す問いかけ、たとえ話、誤答予測、指導計画の生成を支援し、問答シミュレーションが行える教諭向け指導案プランナーです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
